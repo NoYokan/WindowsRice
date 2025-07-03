@@ -15,7 +15,7 @@ Brave - "[SynthWave'84](https://chromewebstore.google.com/detail/synthwave-84/kd
 
 Wallpaper Engine - [Purple Nebula](https://steamcommunity.com/sharedfiles/filedetails/?id=1952051571&searchtext=purple+nebula) x [Pixels](https://steamcommunity.com/sharedfiles/filedetails/?id=3122339805)
 
-Discord - [System 24](https://github.com/refact0r/system24) Theme
+[Better Discord](https://betterdiscord.app/) - [System 24](https://github.com/refact0r/system24) Theme
 
 [TaskbarX](https://taskbarx.org/)
 
